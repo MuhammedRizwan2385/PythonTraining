@@ -11,6 +11,7 @@ def binarysearch(list1,k):
             start=middle+1
         else:
             end=middle-1
+    return -1
             
     
 list1=[1,3,5,7]
